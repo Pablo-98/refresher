@@ -70,8 +70,7 @@ first line in the file represents the total number of values in the file.
         String[] stringArray = new String[10];
         int[] intArray = new int[10];
 
-    // my main concern at this moment (9/01/23 1:26pm ) is that I cant find a way to skip over the first element in the num.txt file. In our case its the number 10
-    // we need to not have 10 in our final array
+ 
   
 
 
