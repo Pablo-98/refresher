@@ -2,7 +2,9 @@ import java.io.*;
 import java.util.Scanner;
 
 public class remedialActivity {
-
+// lab pair: 
+//Pablo Hernandez 
+// John Guajardo 
 
 
     /*
