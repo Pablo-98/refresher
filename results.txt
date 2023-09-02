@@ -1,2 +1,3 @@
 10 + 8 + 12 + 9 + 11 + 2 + 24 + 32 + 8 + 18
-the sum: 
+the sum: 134
+the average: 13.4

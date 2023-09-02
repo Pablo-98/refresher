@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class read {
+public class remedialActivity {
 
 
 
