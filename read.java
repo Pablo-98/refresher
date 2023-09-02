@@ -95,7 +95,7 @@ first line in the file represents the total number of values in the file.
 
         print (intArray);
 
-        System.out.println("-------------- findAVG method  ----------");
+        System.out.println("-------------- findSum method  ----------");
         System.out.println(findSum(intArray));
 
         System.out.println("-------------- findAVG method  ----------");
